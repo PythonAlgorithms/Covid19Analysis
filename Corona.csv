@@ -1,34 +1,33 @@
 ,Sr.No,States/UT,Confirmed,Recovered,Deceased
-0,1,Andhra Pradesh,473,14,9
-1,2,Andaman and Nicobar Islands,11,10,0
-2,3,Arunachal Pradesh,1,0,0
-3,4,Assam,31,0,1
-4,5,Bihar,66,26,1
-5,6,Chandigarh,21,7,0
-6,7,Chhattisgarh,31,10,0
-7,8,Delhi,1510,30,28
-8,9,Goa,7,5,0
-9,10,Gujarat,617,55,26
-10,11,Haryana,199,34,3
-11,12,Himachal Pradesh,32,13,1
-12,13,Jammu and Kashmir,270,16,4
-13,14,Jharkhand,24,0,2
-14,15,Karnataka,258,65,9
-15,16,Kerala,379,198,3
-16,17,Ladakh,15,10,0
-17,18,Madhya Pradesh,730,51,50
-18,19,Maharashtra,2337,229,160
-19,20,Manipur,2,1,0
-20,21,Meghalaya,1,0,0
+0,1,Andaman and Nicobar Islands,33,15,0
+1,2,Andhra Pradesh,1259,258,31
+2,3,Arunachal Pradesh,1,1,0
+3,4,Assam,38,27,1
+4,5,Bihar,366,64,2
+5,6,Chandigarh,56,17,0
+6,7,Chhattisgarh,38,34,0
+7,8,Delhi,3314,1078,54
+8,9,Goa,7,7,0
+9,10,Gujarat,3744,434,181
+10,11,Haryana,310,209,3
+11,12,Himachal Pradesh,40,25,1
+12,13,Jammu and Kashmir,565,176,8
+13,14,Jharkhand,103,17,3
+14,15,Karnataka,523,207,20
+15,16,Kerala,485,359,4
+16,17,Ladakh,22,16,0
+17,18,Madhya Pradesh,2387,377,120
+18,19,Maharashtra,9318,1388,400
+19,20,Manipur,2,2,0
+20,21,Meghalaya,12,0,1
 21,22,Mizoram,1,0,0
-22,23,Nagaland,1,0,0
-23,24,Odisha,55,18,1
-24,25,Puducherry,7,1,0
-25,26,Punjab,176,14,12
-26,27,Rajasthan,879,133,3
-27,28,Tamil Nadu,1173,58,11
-28,29,Telengana,624,100,17
-29,30,Tripura,2,0,0
-30,31,Uttarakhand,35,7,0
-31,32,Uttar Pradesh,657,49,5
-32,32,West Bengal,190,36,7
+22,23,Odisha,118,38,1
+23,24,Puducherry,8,3,0
+24,25,Punjab,322,71,19
+25,26,Rajasthan,2364,768,51
+26,27,Tamil Nadu,2058,1168,25
+27,28,Telengana,1004,321,26
+28,29,Tripura,2,2,0
+29,30,Uttarakhand,54,33,0
+30,31,Uttar Pradesh,2053,462,34
+31,32,West Bengal,725,119,22

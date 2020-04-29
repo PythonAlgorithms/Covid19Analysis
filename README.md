@@ -18,6 +18,7 @@ The disease causes respiratory illness (like the flu) with symptoms such as a co
 ## Introduction
 
 - Covid19 Data scraping with Python
+- ScriptToUpdate Csv File
 
 ## How To Run
 
